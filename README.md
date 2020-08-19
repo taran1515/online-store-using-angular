@@ -1,3 +1,3 @@
-# angular-zu1axe
+# online-store-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zu1axe)
+This is a demo online store app created in order to explore Angular.
